@@ -1,2 +1,2 @@
 # HA-Video-Bench
-A human-aligned benchmark for evaluate video generation
+A human-aligned benchmark for video generation evaluation
